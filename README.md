@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
-**thughes96/thughes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ted Hughes, an undergraduate student at the
+University of Maryland Global Campus.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University:** University of Maryland Global Campus  
+**Level:** Undergraduate  
+**Program:** Non-Degree Seeking  
+**Current Course:** ACCT 220 — Principles of Accounting I
+
+## 📚 Currently Learning
+
+- Accounting fundamentals
+- Business concepts
+- Digital and technology skills
+- Git and GitHub
+- Practical project development
+
+## 💡 About This Profile
+
+This profile is a space where I document my academic
+learning, explore new technologies, and build practical
+projects along the way.
+
+## 🎯 Goals
+
+- Expand my technical knowledge
+- Develop practical skills
+- Build meaningful projects
+- Continue learning through hands-on experience
+
+---
+
+📚 Learning | 💻 Building | 🚀 Growing
